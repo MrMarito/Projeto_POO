@@ -1,0 +1,45 @@
+Antonio Mendes, toze@dei.uc.pt, CMS, 7, 977777777
+Alberto Cardoso, alberto@dei.uc.pt, AC, 1, 911111111
+Adriana Leal, aleal@dei.uc.pt, AC, Tese1, 1/1/2019, Jorge Henriques, jh@dei.uc.pt, 2, 912222222
+Ana Boavida, aboavida@dei.uc.pt, CMS, 6, 966666666
+Angela Coelho, aacoelho@dei.uc.pt, CMS, Tese7, 3/5/2020, Penousal Machado, machado@dei.uc.pt, 9, 999999999
+Carlos Bento, bento@dei.uc.pt, CMS, 8, 988888888
+Ana Rodrigues, anatr@dei.uc.pt, CMS, Tese6, 5/8/2016, Penousal Machado, machado@dei.uc.pt, 9, 999999999
+Jorge Henriques, jh@dei.uc.pt, AC, 2, 912222222
+Antonio Dourado, dourado@dei.uc.pt, AC, 7, 982343561
+Cesar Teixeira, cteixei@dei.uc.pt, AC, 17, 921211212
+Noel Lopes, noel@ipg.pt, AC, 14, 982345121
+Alexandra Ribeiro, alexr@isec.pt, AC, Tese4, 1/4/2020, Jorge Henriques, jh@dei.uc.pt, 2, 912222222
+Bruno Rocha, bmrocha@dei.uc.pt, AC, Tese5, 1/9/2016, Antonio Dourado, dourado@dei.uc.pt, 7, 982343561
+Pedro Correia, pamc@dei.uc.pt, AC, Tese2, 17/5/2020, Antonio Dourado, dourado@dei.uc.pt, 7, 982343561
+Jose Ramos, ze.victorramos@gmail.com, AC, Tese3, 4/6/2018, Cesar Teixeira, cteixei@dei.uc.pt, 17, 921211212
+Penousal Machado, machado2dei.uc.pt, CMS, 9, 999999999
+Rui Paiva, ruipedro@dei.uc.pt, CMS, 10, 921234321
+Antonio Cruz, antonioc@dei.uc.pt, CMS, Tese8, 10/5/2020, Penousal Machado, machado2dei.uc.pt, 9, 999999999
+Bruna Sousa, bruna@dei.uc.pt, CMS, Tese9, 4/5/2017, Antonio Mendes, toze@dei.uc.pt, 7, 977777777
+Bruno Taborda, bmtt@dei.uc.pt, CMS, Tese10, 7/12/2020, Rui Paiva, ruipedro@dei.uc.pt, 10, 921234321
+Nuno Lourenco, naml@dei.uc.pt, ECOS, 21, 913123123
+Ernesto Costa, ernesto@dei.uc.pt, ECOS, 35, 987654345
+Francisco Pereira, xico@dei.uc.pt, ECOS, 21, 982345124
+Guilherme Silva, gcsilva@dei.uc.pt, ECOS, Tese11, 8/2/2018, Nuno Lourenco, naml@dei.uc.pt, 21, 913123123
+Jessica Cunha, jessicac@student.dei.uc.pt, ECOS, Tese12, 6/4/2019, Nuno Lourenco, naml@dei.uc.pt, 21, 913123123
+Joao Simoes, jbsimoes@student.dei.uc.pt, ECOS, Tese13, 7/8/2019, Francisco Pereira, xico@dei.uc.pt, 21, 982345124
+Licinio Roque, lir@dei.uc.pt, IS, 12, 987874456
+Alvaro Rocha, amrocha@dei.uc.pt, IS, 14, 987453453
+Antonio FIgueiredo, adf@dei.uc.pt, IS, 17, 987567567
+Adriano Lino, adlino@dei.uc.pt, IS, Tese14, 9/6/2016, Licinio Roque, lir@dei.uc.pt, 12, 987874456
+Alexandre Fernandes, aff2011@gamil.com, IS, Tese15, 18/11/2019, Licinio Roque, lir@dei.uc.pt, 12, 987874456
+Amanda Sizo, sizo@dei.uc.pt, IS, Tese16, 17/6/2020, Antonio FIgueiredo, adf@dei.uc.pt, 17, 987567567
+Paulo Simoes, psimoes@dei.uc.pt, LCT, 32, 913456217
+Andre Rodrigues, andre@iscac.pt, LCT, 45, 981231231
+Bruno Sousa, bmsousa2dei.uc.pt, LCT, 23, 976567765
+Tiago Cruz, tjcruz@dei.uc.pt, LCT, 24, 912123124
+Andre Riker, ariker@dei.uc.pt, LCT, Tese17, 2/5/2019, Paulo Simoes, psimoes@dei.uc.pt, 32, 913456217
+David Abreu, dabreu@dei.uc.pt, LCT, Tese18, 5/6/2019, Tiago Cruz, tjcruz@dei.uc.pt, 24, 912123124
+David Lima, dhlima@dei.uc.pt, LCT, Tese19, 9/5/2020, Paulo Simoes, psimoes@dei.uc.pt, 32, 913456217
+Henrique Madeira, henrique@dei.uc.pt, SSE, 17, 921672456
+Bruno Cabral, bcabral@dei.uc.pt, SSE, 37, 987456234
+Fernando Barros, barros@dei.uc.pt, SSE, 19, 912142156
+Ana Nogueira, afnog@dei.uc.pt, SSE, Tese20, 8/1/2020, Henrique Madeira, henrique@dei.uc.pt, 17, 921672456
+Charles Goncalves, charles@dei.uc.pt, SSE, Tese21, 9/4/2918, Henrique Madeira, henrique@dei.uc.pt, 17, 921672456
+Cristiano Lemes, clemes@dei.uc.pt, SSE, Tese22, 10/5/2020, Fernando Barros, barros@dei.uc.pt, 19, 912142156

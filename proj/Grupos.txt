@@ -1,0 +1,6 @@
+Adaptive Computation, AC, Jorge Henriques, jh@dei.uc.pt, 2, 912222222
+Cognitive and Media Systems, CMS, Penousal Machado, machado2dei.uc.pt, 9, 999999999
+Evolutionary and Complex Systems, ECOS, Nuno Lourenco, naml@dei.uc.pt, 21, 913123123
+Information Systems, IS, Licinio Roque, lir@dei.uc.pt, 12, 987874456
+Communications and Telematics, LCT, Paulo Simoes, psimoes@dei.uc.pt, 32, 913456217
+Software and Systems Engineering, SSE, Henrique Madeira, henrique@dei.uc.pt, 17, 921672456

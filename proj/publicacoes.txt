@@ -1,0 +1,25 @@
+Alberto Cardoso, Titulo1, informatica, 2018, Livro, 7000, resumo1, editora1, 10
+Jorge Henriques, Titulo2, transformada, 2019, ArtigoDeConferencia, 100, resumo2, Conferencia1, 1/2/2019, Coimbra
+Ana Boavida, Titulo3, informatica, 2014, Livro, 3000, resumo3, editora1, 12
+Antonio Mendes, Titulo4, computacao, 2017, CapituloLivro, 7500, resumo4, editora2, 15, Computacao, 15, 75
+Carlos Bento, Titulo5, computacao, 2020, LivroArtigoConferencia, 8000, resumo5, editora3, 8, Computacao, 20
+Jorge Henriques, Titulo6, informatica, 2017, ArtigoDeConferencia, 700, resumo6, Conferencia1, 4/5/2017, Coimbra
+Jorge Henriques, Titulo7, informatica, 2017, ArtigoDeRevista, 750, resumo7, Revista1, 3/9/2017, 200
+Alberto Cardoso, Titulo8, informatica, 2017, ArtigoDeConferencia, 300, resumo8, Conferencia2, 5/5/2017, Coimbra
+Rui Paiva, Titulo9, informatica, 2016, ArtigoDeConferencia, 350, resumo9, Conferencia2, 6/4/2016, Coimbra
+Nunu Lourenco, Titulo10, transformada, 2015, ArtigoDeConferencia, 120, resumo10, Conferencia1, 8/10/2015, Coimbra
+Licinio Roque, Titulo11, tranformada, 2017, CapituloLivro, 12000, resumo11, editora1, 17, Computacao, 20, 120
+Paulo Simoes, Titulo12, informatica, 2019, Livro, 3000, resumo12, editora1, 13
+Henrique Madeira, Titulo13, informatica, 2020, LivroArtigoConferencia, 2500, resumo13, editora4, 13, Computacao, 20
+Francisco Pereira, Titulo14, informatica, 2017, ArtigoDeRevista, 1500, resumo14, Revista2, 4/3/2017, 150
+Guilherme Silva, Titulo15, informatica, 2018, ArtigoDeRevista, 800, resumo15, Revista3, 8/4/2018, 180
+Antonio Figueiredo, Titulo16, informatica, 2019, CapituloLivro, 3000, resumo16, editora4, 20, Computacao, 50, 75
+Andriano Lino, Titulo17, informatica, 2016, CapituloLivro, 5000, resumo17, editora2, 20, Computacao, 100, 150
+Bruno Sousa, Titulo18, informatica, 2017, CapituloLivro, 7000, resumo18, editora3, 20, Computacao, 200, 250
+Tiago Cruz, Titulo19, informatica, 2020, ArtigoDeRevista, 750, resumo19, Revista4, 7/3/2020, 190
+Cristiaon Lemes, Titulo20, informatica, 2017, Livro, 3000, resumo20, editora, 20
+David Abreu, Titulo21, informatica, 2019, LivroArtigoConferencia, 8000, resumo21, editora4, 13, Computacao, 21
+Ana Nogueira, Titulo22, informatica, 2016, LivroArtigoConferencia, 6000, resumo22, editora3, 11, Computacao, 22
+Jesica Cunha, Titulo23, informatica, 2017, LivroArtigoConferencia, 2000, resumo23, editora4, 10, Computacao, 23
+David Lima, Titulo24, informatica, 2018, ArtigoDeRevista, 750, resumo24, Revista3, 5/4/2018, 170
+Alvaro Rocha, Titulo25, informatica, 2017, Livro, 4000, resumo25, editora1, 21
